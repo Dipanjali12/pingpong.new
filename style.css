@@ -1,0 +1,17 @@
+body{
+    background-position: center;
+    background-color: antiquewhite;
+}
+
+#status {
+    font-size: 25px
+}
+.modal-dialog {
+    width: 90%;
+}
+
+.instructions {
+    display: inline-block;
+    width: 45%;
+}
+
